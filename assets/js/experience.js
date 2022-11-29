@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Site Engineer",
+    cardImage: "assets/images/experience-page/TNT.png",
+    place: "Talent and Technology Co,. ltd.",
+    time: "(Aug, 2019 - Oct 2020)",
+    desp: "<li>Inspection the Solar Home Systems and Public facilities Solar System for National Electrification Project (NEP), that are installed at Rural area</li> <li>Inspection for Wearhouse and Performance testing for sample units of Solar System.</li> <li>Operation and Maintenance for off-grid Solar Power House and Mini-Grid Solar Systems.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Service Engineer",
+    cardImage: "assets/images/experience-page/GMA.png",
+    place: "Golden Myanmar Alliance Co., ltd.",
+    time: "(Jan 2022 - Present)",
+    desp: "<li>Inatallation for Digital X-ray Systems and Ultrasound Systems. </li><li> Maintenance Service for Digital X-ray Systems and Ultrasound Systems. </li><li>Calculating Requirements and Layout Planning for Digital X-ray Systems and Ultrasound Systems.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Service Engineer",
+    cardImage: "assets/images/experience-page/GA.png",
+    place: "Global Aesthetic Co,. ltd.",
+    time: "(Jan 2022 - Present)",
+    desp: "<li>Installation for Aesthetic Medical Mechines, that are Laser Machine and IPL Mechines.</li><li>Decommission for Cobalt-60 Machines at Yangon General Hospital.</li><li>Installation for Bhabhatron-II and CT-Simulator Machinces at Yangon General Hospital.</li>",
   },
 ];
 
@@ -62,29 +62,29 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "National Electrification Project (NEP)",
+    cardImage: "assets/images/experience-page/nep-drd.jpg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "NEP is one of project of Department of Rural Developments(DRD) and powered by World Bank, that's Electrification Project for rural area",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "YGH Cobalt-60",
+    cardImage: "assets/images/experience-page/panacea.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Decommission Cobalt-60 machine at Yangon General Hospital and Reinstalling Bhabhatron-II and CT-Simulator",
   },
   {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
+    title: "San Pya 500mA X-ray",
+    cardImage: "assets/images/experience-page/sanpya.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Installing 500mA X-Ray System by OCTAVE at San Pya General Hospital, Thaton, Mon State.",
   },
-  {
+ /*  {
     title: "Hakin-Codes",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
       "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
-  },
+  }, */
 ];
 
 const showCards = () => {
@@ -92,7 +92,7 @@ const showCards = () => {
   volunteershipcards.forEach(
     ({ title, cardImage, description }) =>
       (output += `        
-      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
+      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 590px;width:400px">
       
       <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
       <div class="content">

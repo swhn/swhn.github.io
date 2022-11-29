@@ -5,26 +5,26 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Solar Energy Basics",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/browse/data-science",
   },
   {
-    title: "Cryptography",
+    title: "AutoCad 2D",
     cardImage: "assets/images/education-page/udemy.svg",
     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
   },
   {
-    title: "Machine Learning",
+    title: "Colbalt-60 Decommession",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/learn/machine-learning",
   },
   {
-    title: "Introduction to HTML 5",
+    title: "Electrical Systems: Panel Boards, Frequency Drives, and Transformers",
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
   },
-  {
+/*   {
     title: "Introduction to CSS 3",
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
@@ -65,7 +65,7 @@ const moocscards = [
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink:
       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
-  },
+  }, */
 ];
 
 const experience = [

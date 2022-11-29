@@ -194,7 +194,7 @@ div.html_icon.techstack_icon>i.fa-html5 {
     -moz-text-fill-color: transparent;
 }
 
-div.techstack_icon>i.fa-css3-alt {
+div.techstack_icon>i.fa-lightbulb-o {
     /* color: #2965f1 !important; */
     display: inline-block;
     background: linear-gradient(-90deg, #264de4 50%, #2965f1 50%);

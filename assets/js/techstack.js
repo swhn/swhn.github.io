@@ -5,54 +5,54 @@ AOS.init();
 const techStackCards = document.querySelector(".techstack-box");
 const techStack = [
   {
-    langImage: "assets/images/techstack-page/html.png",
-    langName: "HyperText Markup Language",
-    langDesc: "<li>The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser</li>",
+    langImage: "assets/images/techstack-page/house-wiring.png",
+    langName: "House Wire Installation",
+    langDesc: "<li>I worked for freelance House Wiring for 6 months and was stastified by 23 customers. </li>",
   },
   {
-    langImage: "assets/images/techstack-page/css.png",
-    langName: "Cascading Style Sheets",
-    langDesc: "<li>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML</li>",
+    langImage: "assets/images/techstack-page/electrician.png",
+    langName: "Electrical Maintenace",
+    langDesc: "<li>I worked for Electrical Maintenance at every workspace I worked. </li>",
   },
   {
-    langImage: "assets/images/techstack-page/javascript.png",
-    langName: "JavaScript",
-    langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
+    langImage: "assets/images/techstack-page/design.png",
+    langName: "Electrical Design",
+    langDesc: "<li>I worked with solar panel design, X-Ray room layout and able to read blueprint to smooth the workflow.</li>",
   },
   {
-    langImage: "assets/images/techstack-page/node.png",
-    langName: "Node",
-    langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
+    langImage: "assets/images/techstack-page/solar-panel.png",
+    langName: "Solar Power Energy",
+    langDesc: "<li>I worked with solar panel for over a year and interest in renewable green energy. I've installed solar home systems, on-grid and off-grids. </li>",
   },
   {
-    langImage: "assets/images/techstack-page/python.png",
-    langName: "Python",
-    langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
+    langImage: "assets/images/techstack-page/x-rays.png",
+    langName: "X-Rays",
+    langDesc: "<li>I've experience in X-Ray machines, Detectors, Imager and other accessories and I can install and maintenance for that.</li>",
   },
   {
-    langImage: "assets/images/techstack-page/cpp.png",
-    langName: "C++",
-    langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
+    langImage: "assets/images/techstack-page/ultrasound.png",
+    langName: "Ultrasound",
+    langDesc: "<li>I've experience in ultrasound machines in different platforms and I can Install and maintenance for that.</li>",
   },
   {
-    langImage: "assets/images/techstack-page/git.png",
-    langName: "Git",
-    langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
+    langImage: "assets/images/techstack-page/autocad.png",
+    langName: "AutoCAD",
+    langDesc: "<li>i can draw AutoCAD 2D designs, wiring plans, layout plans and understand the electrical designs.</li>",
   },
   {
-    langImage: "assets/images/techstack-page/bootstrap.png",
-    langName: "Bootstrap",
-    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
+    langImage: "assets/images/techstack-page/office.png",
+    langName: "Microsoft Office",
+    langDesc: "<li>I can use various Microsoft Office Softwares very well and familier with reports, paper works and presentations.</li>",
   },
   {
-    langImage: "assets/images/techstack-page/react.png",
-    langName: "React",
-    langDesc: "<li>React is a free and open-source front-end JavaScript library for building user interfaces based on UI components</li>",
+    langImage: "assets/images/techstack-page/google.png",
+    langName: "Google Workspace",
+    langDesc: "<li>I can use Google Workspace softwares and have a good knowledge with Data Sharing, Permissions and analysing.</li>",
   },
   {
-    langImage:"assets/images/techstack-page/c.png",
-    langName:"C",
-    langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
+    langImage:"assets/images/techstack-page/wordpress.png",
+    langName:"Wordpress",
+    langDesc:"<li>I have created multiples websites that are built on Wordpress platform and understand on themes, plugins and coding. </li>"
   },
 ];
 

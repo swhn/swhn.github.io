@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/GMA.png",
     place: "Golden Myanmar Alliance Co., ltd.",
     time: "(Jan 2022 - Present)",
-    desp: "<li>Inatallation for Digital X-ray Systems and Ultrasound Systems. </li><li> Maintenance Service for Digital X-ray Systems and Ultrasound Systems. </li><li>Calculating Requirements and Layout Planning for Digital X-ray Systems and Ultrasound Systems.</li>",
+    desp: "<li>Inatallation for Digital X-ray Systems and Ultrasound Systems. </li><li> Maintenance Service for Digital X-ray Systems and Ultrasound Systems. </li><li>Calculating Requirements and Layout Planning for Digital X-ray Systems and Ultrasound Systems.</li><li>Earned Best Performance Award of 2022.</li>",
   },
   {
     title: "Service Engineer",

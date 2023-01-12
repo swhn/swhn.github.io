@@ -6,23 +6,24 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Solar Energy Basics",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    cardImage: "assets/images/education-page/cer1-thumb.jpg",
+    moocLink: "https://www.coursera.org/verify/QNUB4KZ4ZR57",
   },
   {
     title: "AutoCad 2D",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    cardImage: "assets/images/education-page/cer2-thumb.jpg",
+    moocLink: "assets/images/education-page/cer2.jpg",
+  },
+  
+  {
+    title: "Electrical Systems: Panel Boards, Frequency Drives, and Transformers",
+    cardImage: "assets/images/education-page/cer3-thumb.jpg",
+    moocLink: "assets/images/education-page/cer3.jpg",
   },
   {
     title: "Colbalt-60 Decommession",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
-    title: "Electrical Systems: Panel Boards, Frequency Drives, and Transformers",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    cardImage: "assets/images/education-page/cer4-thumb.png",
+    moocLink: "assets/images/education-page/cer4.png",
   },
 /*   {
     title: "Introduction to CSS 3",

@@ -54,6 +54,12 @@ const techStack = [
     langName:"Wordpress",
     langDesc:"<li>I have created multiples websites that are built on Wordpress platform and understand on themes, plugins and coding. </li>"
   },
+   {
+    langImage:"assets/images/techstack-page/networking.png",
+    langName:"Networking",
+    langDesc:"<li>I've also experience on networking and I can make the connection for local networks, IP address managements and hardware connections. </li>"
+  },
+
 ];
 
 const displayTechStacksCards = () => {

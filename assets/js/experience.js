@@ -4,13 +4,7 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
-  {
-    title: "Site Engineer",
-    cardImage: "assets/images/experience-page/TNT.png",
-    place: "Talent and Technology Co,. ltd.",
-    time: "(Aug, 2019 - Oct 2020)",
-    desp: "<li>Inspection the Solar Home Systems and Public facilities Solar System for National Electrification Project (NEP), that are installed at Rural area</li> <li>Inspection for Wearhouse and Performance testing for sample units of Solar System.</li> <li>Operation and Maintenance for off-grid Solar Power House and Mini-Grid Solar Systems.</li>",
-  },
+  
   {
     title: "Service Engineer",
     cardImage: "assets/images/experience-page/GMA.png",
@@ -22,8 +16,15 @@ const exp = [
     title: "Service Engineer",
     cardImage: "assets/images/experience-page/GA.png",
     place: "Global Aesthetic Co,. ltd.",
-    time: "(Jan 2022 - Present)",
+    time: "(Nov 2020 - Jan 2022)",
     desp: "<li>Installation for Aesthetic Medical Mechines, that are Laser Machine and IPL Mechines.</li><li>Decommission for Cobalt-60 Machines at Yangon General Hospital.</li><li>Installation for Bhabhatron-II and CT-Simulator Machinces at Yangon General Hospital.</li>",
+  },
+{
+    title: "Site Engineer",
+    cardImage: "assets/images/experience-page/TNT.png",
+    place: "Talent and Technology Co,. ltd.",
+    time: "(Aug, 2019 - Nov 2020)",
+    desp: "<li>Inspection the Solar Home Systems and Public facilities Solar System for National Electrification Project (NEP), that are installed at Rural area</li> <li>Inspection for Wearhouse and Performance testing for sample units of Solar System.</li> <li>Operation and Maintenance for off-grid Solar Power House and Mini-Grid Solar Systems.</li>",
   },
 ];
 

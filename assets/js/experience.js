@@ -4,7 +4,13 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
-  
+  {
+    title: "Electrician",
+    cardImage: "assets/images/experience-page/akts.png",
+    place: "Asahi Kokusai Techneion Singapore PTE LTD",
+    time: "(Jan 2024 - Dec 2024)",
+    desp: "<li>Cable Termination works for control panels. </li><li>Cable laying, dressing, glanding and termination for field instruments. </li><li>Cable testing and loop check.</li><li>Installation of cable trays, cable ducts and instruments air pipeline.</li>",
+  },
   {
     title: "Service Engineer",
     cardImage: "assets/images/experience-page/GMA.png",
@@ -26,13 +32,7 @@ const exp = [
     time: "(Aug 2019 - Nov 2021)",
     desp: "<li>Inspection the Solar Home Systems and Public facilities Solar System for National Electrification Project (NEP), that are installed at Rural area</li> <li>Inspection for Wearhouse and Performance testing for sample units of Solar System.</li> <li>Operation and Maintenance for off-grid Solar Power House and Mini-Grid Solar Systems.</li>",
   },
-  {
-    title: "Electrician",
-    cardImage: "assets/images/experience-page/akts.png",
-    place: "Asahi Kokusai Techneion Singapore PTE LTD",
-    time: "(Jan 2024 - Dec 2024)",
-    desp: "<li>Cable Termination works for control panels. </li><li>Cable laying, dressing, glanding and termination for field instruments. </li><li>Cable testing and loop check.</li><li>Installation of cable trays, cable ducts and instruments air pipeline.</li>",
-  },
+ 
 ];
 
 const showCards2 = () => {
@@ -89,7 +89,7 @@ const volunteershipcards = [
   },
   {
     title: "PCS/JCG MELS-3 Extension Project",
-    cardImage: "assets/images/experience-page/JGC.jpg",
+    cardImage: "assets/images/experience-page/jgc.jpg",
     description:
       "MELS -3 Extension Project for PCS/JGC,Singapore",
   },

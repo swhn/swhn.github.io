@@ -9,22 +9,29 @@ const exp = [
     title: "Service Engineer",
     cardImage: "assets/images/experience-page/GMA.png",
     place: "Golden Myanmar Alliance Co., ltd.",
-    time: "(Jan 2022 - Present)",
+    time: "(Jan 2022 - Jan 2024)",
     desp: "<li>Inatallation for Digital X-ray Systems and Ultrasound Systems. </li><li> Maintenance Service for Digital X-ray Systems and Ultrasound Systems. </li><li>Calculating Requirements and Layout Planning for Digital X-ray Systems and Ultrasound Systems.</li><li>Earned Best Performance Award of 2022.</li>",
   },
   {
     title: "Service Engineer",
     cardImage: "assets/images/experience-page/GA.png",
     place: "Global Aesthetic Co,. ltd.",
-    time: "(Jan 2022 - Present)",
+    time: "(Nov 2020 - Jan 2022)",
     desp: "<li>Installation for Aesthetic Medical Mechines, that are Laser Machine and IPL Mechines.</li><li>Decommission for Cobalt-60 Machines at Yangon General Hospital.</li><li>Installation for Bhabhatron-II and CT-Simulator Machinces at Yangon General Hospital.</li>",
   },
 {
     title: "Site Engineer",
     cardImage: "assets/images/experience-page/TNT.png",
     place: "Talent and Technology Co,. ltd.",
-    time: "(Aug, 2019 - Nov 2021)",
+    time: "(Aug 2019 - Nov 2021)",
     desp: "<li>Inspection the Solar Home Systems and Public facilities Solar System for National Electrification Project (NEP), that are installed at Rural area</li> <li>Inspection for Wearhouse and Performance testing for sample units of Solar System.</li> <li>Operation and Maintenance for off-grid Solar Power House and Mini-Grid Solar Systems.</li>",
+  },
+  {
+    title: "Electrician",
+    cardImage: "assets/images/experience-page/akts.png",
+    place: "Asahi Kokusai Techneion Singapore PTE LTD",
+    time: "(Jan 2024 - Dec 2024)",
+    desp: "<li>Cable Termination works for control panels. </li><li>Cable laying, dressing, glanding and termination for field instruments. </li><li>Cable testing and loop check.</li><li>Installation of cable trays, cable ducts and instruments air pipeline.</li>",
   },
 ];
 
@@ -79,6 +86,12 @@ const volunteershipcards = [
     cardImage: "assets/images/experience-page/sanpya.jpg",
     description:
       "Installing 500mA X-Ray System by OCTAVE at San Pya General Hospital, Thaton, Mon State.",
+  },
+  {
+    title: "PCS/JCG MELS-3 Extension Project",
+    cardImage: "assets/images/experience-page/JGC.jpg",
+    description:
+      "MELS -3 Extension Project for PCS/JGC,Singapore",
   },
  /*  {
     title: "Hakin-Codes",
